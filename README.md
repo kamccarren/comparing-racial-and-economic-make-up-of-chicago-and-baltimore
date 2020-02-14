@@ -29,3 +29,5 @@ Data set was obtained from https://www.opportunityatlas.org/. <The Opportunity A
 Chicago unemplyment rates from https://www.bls.gov/eag/eag.il_chicago_md.htm. <Bureau of Labor Statistics>
   
 Baltimore unemployment rates from https://ycharts.com/indicators/baltimore_md_unemployment_rate. <Y Charts>
+  
+Excel data can be found: https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/McCarren%20Mini%20Project%20%231.xlsx. <Github>
