@@ -16,13 +16,23 @@ While it is useful for me to compare Baltimore City and Chicago, I grew up in th
 1. Compare racial data in 2000 and 2010
 2. Convert data to percentages
 3. Used stacked bar graphs to compare counties and racial make up
+
+
+![](https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/Racial%20Make%20Up%202000.png)
+![](https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/Racial%20Make%20Up%202010.png)
+
 ##### Population Density
 1. Compare population density in 2000 and 2010 using bar chart
 2. Overlay with job density as line graph
+
+![](https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/Population%20Density.png)
+
 ##### Poor share
 1. Create bar chart with poor share data 
 2. Convert data to percentages.
 3. Observe trends and use other information to make inferences
+
+![](https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/Poor%20Share.png)
 
 Data set was obtained from https://www.opportunityatlas.org/. <The Opportunity Atlas>
   
