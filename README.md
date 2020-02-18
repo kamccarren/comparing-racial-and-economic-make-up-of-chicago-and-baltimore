@@ -32,7 +32,7 @@ While it is useful for me to compare Baltimore City and Chicago, I grew up in th
 2. Convert data to percentages.
 3. Observe trends and use other information to make inferences
 
-![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Two%20Parent%20Household.pngg)
+![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Two%20Parent%20Household.png)
 
 Data set was obtained from https://www.opportunityatlas.org/. <The Opportunity Atlas>
 
