@@ -1,5 +1,7 @@
 # miniproject1 - Correlation between teen births, two parent households and income
 
+(Changed topic after presentation presentation but didn't want to change the name of my repository in case the link submitted through the form wouldn't work anymore.)
+
 Compared my homewown of Chicago to Baltimore by looking at data from counties. I chose to first consider racial make up of the population since this was something I could pretty easily compare and it wil be relevant with the upcoming cencus to see if the trends have continued over the last 10 years. The largest change was the growth in the hispanic population in both counties/cities. It was particularly evident in Chicago.
 
 However, I wanted to contextualize this information with the general population. The database had information on population density so I created a plot that showed a much higher population density in Chicago. There is roughly a 100% more dense population in Chicago. I also looked at job density to see how this compared to the population density and job density was 214% higher in Chicago. I was curious as to the unemployment rates, respectively, which were not included in the data set. I searched online and found that the suburbs of Chicago had an unemployment rate of 2.8% and Baltimore had an unemployment rate of 4.2% as of December 2019. It is unclear if there is a causal relationshiop between population density, job density, and unemployment, but it is interesting.
