@@ -12,32 +12,28 @@ While it is useful for me to compare Baltimore City and Chicago, I grew up in th
 1. Search database for Chicago and Baltimore
 2. Isolate two rows of data of interest
 3. Create pivot tables
-##### Racial Make up
+##### Female Income
 1. Compare racial data in 2000 and 2010
 2. Convert data to percentages
 3. Used stacked bar graphs to compare counties and racial make up
 
+![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Projected%20Female%20Income.png)
 
-![](https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/Racial%20Make%20Up%202000.png)
-![](https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/Racial%20Make%20Up%202010.png)
 
-##### Population Density
+##### Teen Births/Pregnancies
 1. Compare population density in 2000 and 2010 using bar chart
 2. Overlay with job density as line graph
 
-![](https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/Population%20Density.png)
+![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Teen%20Births:Pregnancies.png)
 
-##### Poor share
+##### Two Parent Household
 1. Create bar chart with poor share data 
 2. Convert data to percentages.
 3. Observe trends and use other information to make inferences
 
-![](https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/Poor%20Share.png)
+
+![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Two%20Parent%20Household.png)
 
 Data set was obtained from https://www.opportunityatlas.org/. <The Opportunity Atlas>
-  
-Chicago unemplyment rates from https://www.bls.gov/eag/eag.il_chicago_md.htm. <Bureau of Labor Statistics>
-  
-Baltimore unemployment rates from https://ycharts.com/indicators/baltimore_md_unemployment_rate. <Y Charts>
-  
-Excel data can be found: https://github.com/kamccarren/comparing-racial-make-up-in-chicago-and-baltimore/blob/master/McCarren%20Mini%20Project%20%231.xlsx. <Github>
+
+Excel data can be found: https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/McCarren%20mini%20Project%201%20-%20edited.csv <Github>
