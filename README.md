@@ -1,4 +1,4 @@
-# miniproject1 - How Population Demographics and Related Economic Data Affect Baltimore and Chicago
+# miniproject1 - Correlation between teen births, two parent households and income
 
 Compared my homewown of Chicago to Baltimore by looking at data from counties. I chose to first consider racial make up of the population since this was something I could pretty easily compare and it wil be relevant with the upcoming cencus to see if the trends have continued over the last 10 years. The largest change was the growth in the hispanic population in both counties/cities. It was particularly evident in Chicago.
 
