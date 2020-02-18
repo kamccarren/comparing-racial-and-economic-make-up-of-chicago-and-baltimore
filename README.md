@@ -2,39 +2,37 @@
 
 (Changed topic after presentation presentation but didn't want to change the name of my repository in case the link submitted through the form wouldn't work anymore.)
 
-Compared my homewown of Chicago to Baltimore by looking at data from counties. I chose to first consider racial make up of the population since this was something I could pretty easily compare and it wil be relevant with the upcoming cencus to see if the trends have continued over the last 10 years. The largest change was the growth in the hispanic population in both counties/cities. It was particularly evident in Chicago.
+I chose to compare my homewown of Chicago to Baltimore. There was a lot of data to consider but I noticed a large amount of data relating specifically to females. I chose to look at teen births and I wanted to see what factors may influence this or be correlated. Most of the data was broken down into p1, p25, p50, p75 and p100 which I understood to be income percentiles. Additionally, I found it interesting that there is data for teen births rather than teen pregnancies as both states offer late-stage abortion and it is liklely easier to collect data from hospitals for births.
 
-However, I wanted to contextualize this information with the general population. The database had information on population density so I created a plot that showed a much higher population density in Chicago. There is roughly a 100% more dense population in Chicago. I also looked at job density to see how this compared to the population density and job density was 214% higher in Chicago. I was curious as to the unemployment rates, respectively, which were not included in the data set. I searched online and found that the suburbs of Chicago had an unemployment rate of 2.8% and Baltimore had an unemployment rate of 4.2% as of December 2019. It is unclear if there is a causal relationshiop between population density, job density, and unemployment, but it is interesting.
+My initial goal was to create a combination chart to look at these factors within the same graph but this proved difficult. I believe the difficulty stemmed from the income percentiles and created too many variables for a comprehendible chart.
 
-Finally, I wanted to see how this would affect troubled populations, so I wanted to get a sense of how many people struggle in each city, and if there were trends. Baltimore consistently had a higher poor share, and both cities had strong upward trends from 1990 to 2010. There was a particularly increase in Chicago from 2000 to 2010. I would think that this mgiht have to do with the financial crisis 2008 and the loss of so many jobs, but it doesn't seem to have a strong impact on Baltimroe so I am unsure.
 
-While it is useful for me to compare Baltimore City and Chicago, I grew up in the suburbs so Baltimore definitely has some differences. My largest takeaway from this project is how interconnected many changes are and to really examine the data before making any blanket statements or without first performing rigorous analysis.
+
+While it is useful for me to compare Baltimore City and Chicago, I grew up in the suburbs of Chicago so Baltimore definitely has some differences. Furthermore, My largest takeaway from this project is how interconnected many changes are and to really examine the data before making any blanket statements or without first performing rigorous analysis.
 
 #### Steps to analyze data:
 1. Search database for Chicago and Baltimore
 2. Isolate two rows of data of interest
 3. Create pivot tables
-##### Female Income
+
+##### Teen Births
 1. Compare racial data in 2000 and 2010
 2. Convert data to percentages
 3. Used stacked bar graphs to compare counties and racial make up
 
-![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Projected%20Female%20Income.png)
-
-
-##### Teen Births/Pregnancies
-1. Compare population density in 2000 and 2010 using bar chart
-2. Overlay with job density as line graph
-
 ![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Teen%20Births:Pregnancies.png)
+
+##### Female Income
+1. Compare 
+
+![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Projected%20Female%20Income.png)
 
 ##### Two Parent Household
 1. Create bar chart with poor share data 
 2. Convert data to percentages.
 3. Observe trends and use other information to make inferences
 
-
-![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Two%20Parent%20Household.png)
+![](https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/Two%20Parent%20Household.pngg)
 
 Data set was obtained from https://www.opportunityatlas.org/. <The Opportunity Atlas>
 
