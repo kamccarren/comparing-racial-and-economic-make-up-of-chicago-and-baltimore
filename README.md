@@ -31,4 +31,4 @@ While it is useful for me to compare Baltimore City and Chicago, I grew up in th
 
 Data set was obtained from https://www.opportunityatlas.org/. <The Opportunity Atlas>
 
-Excel data can be found: https://github.com/kamccarren/comparing-racial-and-economic-make-up-of-chicago-and-baltimore/blob/master/McCarren%20mini%20Project%201%20-%20edited.csv <Github>
+Excel data can be found: https://drive.google.com/file/d/1u9fmhRyooOngJgpD3KOwCBW-jy9smGab/view?usp=sharing <Google Drive>
